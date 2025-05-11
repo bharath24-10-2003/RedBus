@@ -1,0 +1,29 @@
+.searchBus{
+    height: 75vh;
+}
+
+.toBox,.fromBox,.searchButton{
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    border: none;
+    box-shadow: none;
+}
+input:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.swap-locations{
+    padding: 10px;
+    transform: translateY(-50%);
+    /* align-self: flex-end; */
+};
+
+.IoSwapVerticalSharp{
+    
+}
